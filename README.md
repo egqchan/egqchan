@@ -6,9 +6,9 @@
     <tbody>
       <tr>
         <td>
-          ㅤ $\small\color{#f7faff}{\textsf{oresha ou ori}}$ 
+       $\small\color{#f7faff}{\textsf{oresha ou ori}}$ 
           <div id="header" align="center">
-            <a href="https://github.com/smokebomb"><sub>main</a>
+            <a href="https://github.com/smokebomb"><sub>main</a> <a href="https://zombie-picnic.atabook.org/"><sub>atabook</a>
         </td>        
         <td>
           <img align="center" width="200px" alt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_1062.PNG">

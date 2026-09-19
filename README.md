@@ -1,5 +1,6 @@
 <div id="header" align="center">
-
+──── ୨୧ ────
+ 
   <div id="header" align="center">
   <table>
     <tbody>
@@ -18,6 +19,7 @@
 </div>
 
 <div id="header" align="center">
+✦.﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌.✦
 
 <div id="header" align="center">
 <img align="center" width="350px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_1046.PNG">
